@@ -26,8 +26,8 @@
 
 /* Estilo Desktop */
 body {
-  background-color: #ffffff;
-  color: #000000;
+  background-color: #000000;
+  color: #FFFFFF;
 }
 
 header img {
@@ -72,7 +72,7 @@ a {
 }
 
 a:hover {
-  background-color: #8233E8;
+  background-color: #4c1e88;
 }
 
 section img{
